@@ -13,10 +13,12 @@ public class LoadCharacter : MonoBehaviour
     public bool IsInitialized = false;
 
     //Avatar paths
-    string path_tranier = "Characters/Man/Trainer";
+    string path_tranier = "Characters/SquatLady/FemTrainer";
     string path_woman = "Characters/Woman/Woman";
     string path_mouse = "Characters/Mouse/Mouse";
     string path_robot = "Characters/Robot Kyle/Model/Robot Kyle";
+    string path_KevinUbilla = "Characters/KevinUbilla/KevTrainer";
+    string path_squat_lady = "Characters/SquatLady/FemTrainer";
 
     //Controller paths
     string path_squat = "Animations/Controller/Humanoid/SquatController";
